@@ -181,7 +181,9 @@ textarea {
         transform: translate3d(0, 0, 0);
     }
 }
-
+img#self {
+    width: 200px;
+}
 .fadeInLeft {
     animation-name: fadeInLeft;
     animation-duration: .9s;
